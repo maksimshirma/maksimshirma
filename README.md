@@ -33,14 +33,14 @@ Telegram: https://t.me/maksimshirma
 
 <br/>
 
-Ешё я люблю решать сложные задачи, попутно прокачивая свои алгоритмические навыки.
+Постоянно решаю задачи и прокачиваю свои алгоритмические навыки.
 
 <h3>Вот моя статистика с leetcode</h3>
 
 ![maksimshirma's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=maksimshirma&theme=dark)
 
 
-<h3>А также подробная статистика профила GitHub</h3>
+<h3>А также подробная статистика профиля GitHub</h3>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maksimshirma&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maksimshirma&theme=solarized_dark)
