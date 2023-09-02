@@ -1,15 +1,17 @@
 <h1>Технологии, которые я использую:</h1>
 
 - React
+- JavaScript
+- TypeScript
 - Redux
 - HTML/CSS
-- JS, TS
 - SCSS
 - ESlint, Prettier
 - Vite & Webpack
 
 <h1>Технологии, с которыми я знаком:</h1>
 
+- Next.js
 - Node.JS & Express
 - MongoDB
 - Bootstrap & TailwindCSS
