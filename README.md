@@ -26,6 +26,7 @@ Telegram: https://t.me/maksimshirma
 <h2>Технологии, с которыми я знаком:</h2>
 
 - Next.js
+- Jest
 - Node.JS & Express
 - MongoDB
 - Bootstrap & TailwindCSS
